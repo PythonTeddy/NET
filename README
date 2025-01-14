@@ -1,0 +1,5 @@
+Contact me: themailbot94@gmail.com
+
+How to run:
+pip install -r requirements.txt
+python3 NET.py
